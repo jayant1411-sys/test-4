@@ -10,7 +10,11 @@ public class Test4Application {
 int x=1000;
 int b=10021;		
 int b=10000;
+
 int b=2334;		
+
+		
+>>>>>>> ac9e4df1ddb8913eaaef839f7964081af12fd945
 		SpringApplication.run(Test4Application.class, args);
 	}
 
